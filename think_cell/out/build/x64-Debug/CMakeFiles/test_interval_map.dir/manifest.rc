@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/monsi/git/think_cell/think_cell/out/build/x64-Debug/CMakeFiles/test_interval_map.dir/embed.manifest"

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-test_interval_map",
+      "appliesTo": "src/test_interval_map.cpp",
+      "type": "launch"
+    }
+  ]
+}

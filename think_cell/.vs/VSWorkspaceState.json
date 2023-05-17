@@ -1,0 +1,29 @@
+{
+  "DevContainersInfoBarHidden": true,
+  "MRUPresetsPerTargetSystem": {
+    "Local Machine": {
+      "configure": "x64-debug"
+    }
+  },
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\WSL-GCC-Debug",
+      "out\\install\\WSL-GCC-Debug",
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ],
+    "WSL: Ubuntu": [
+      "out\\build\\WSL-GCC-Debug",
+      "out\\install\\WSL-GCC-Debug",
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ActiveTargetSystem": "Local Machine",
+  "ExpandedNodes": [
+    "",
+    "\\out"
+  ],
+  "SelectedNode": "\\test_interval_map.cpp",
+  "PreviewInSolutionExplorer": false
+}
